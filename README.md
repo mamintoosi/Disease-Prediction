@@ -7,9 +7,6 @@ Disease-Prediction
  
 This repository provides a Python implementation of Disease-Prediction. The work is in progress...
 
-### Requirements
-The codebase is implemented in Python 3.7.11 on Google colab.
-
 ### Run on Google Colab
 https://colab.research.google.com/github/mamintoosi/Disease-Prediction/blob/master/disease_prediction.ipynb
 
